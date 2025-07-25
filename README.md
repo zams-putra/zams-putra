@@ -16,6 +16,6 @@ func Hi(name string) string {
 const Hi = (name) => "Hi " + name
 ```
 
-[I am Here](https://zamsprofile.netlify.app/)
+see more👉 [I am Here](https://zamsprofile.netlify.app/)
 
 ![](https://komarev.com/ghpvc/?username=zams-putra&color=15152e)
