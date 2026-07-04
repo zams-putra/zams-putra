@@ -1,4 +1,4 @@
-* Look at Larp *
+* Look at Larp
 <details>
 <summary>PGP Fingerprint <code>W41T D0l0</code></summary>
 
