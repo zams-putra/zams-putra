@@ -3,7 +3,7 @@
 <summary>PGP Fingerprint <code>W41T D0l0</code></summary>
 
 
-<summary>Show public key🧀</summary>
+Show public key🧀
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
